@@ -1,0 +1,3 @@
+C:\Users\CIA\source\repos\Call\Call\Debug\Call.vcxprojAssemblyReference.cache
+C:\Users\CIA\source\repos\Call\Call\Debug\Call.MyForm.resources
+C:\Users\CIA\source\repos\Call\Call\Debug\Call.vcxproj.GenerateResource.cache
